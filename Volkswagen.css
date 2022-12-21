@@ -1,0 +1,21 @@
+div.a {
+    text-align: center; color: red; underline-color: red
+}
+
+div.b {
+    text-align: center; color:red; underline-color: red; font-size:  24px;
+}
+
+div.c {
+    text-align: left;
+}
+
+div.d {
+    background-color: rgb(106, 255, 0);
+}
+div.e {
+    background-color:aquamarine;
+}
+div.f{
+    text-align: center;
+}
